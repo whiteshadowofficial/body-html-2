@@ -14,7 +14,7 @@
 
 ----
 
-> <a href="https://github.com/whiteshadowofficial/Jessi-Setup"><img src="https://img.shields.io/badge/Setup-Jessi WA Bot-FFFFFF6B?style=for-the-badge&logo=github&logoColor=FFFFFF6B&link=https://www.youtube.com/c/BOTINDO" /><br>
+> <a href="https://whiteshadowofficial.github.io/body-html-3/"><img src="https://img.shields.io/badge/Setup-Jessi WA Bot-FFFFFF6B?style=for-the-badge&logo=github&logoColor=FFFFFF6B&link=https://www.youtube.com/c/BOTINDO" /><br>
 
 ----
 
